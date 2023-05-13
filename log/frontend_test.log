@@ -1,0 +1,6 @@
+May 13 03:21:43 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'job',  'action' => 'index',)
+May 13 03:21:44 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'job',  'action' => 'index',)
+May 13 03:21:46 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'job',  'action' => 'index',)
+May 13 03:21:47 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'job',  'action' => 'index',)
+May 13 03:21:48 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'job',  'action' => 'index',)
+May 13 03:21:49 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/language/index" (/).

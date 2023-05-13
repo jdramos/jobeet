@@ -1,0 +1,168 @@
+May 13 03:21:36 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signin" (/guard/login)
+May 13 03:21:36 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signout" (/guard/logout)
+May 13 03:21:36 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_filter" (/guard/users/filter.:sf_format)
+May 13 03:21:36 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_batch" (/guard/users/batch.:sf_format)
+May 13 03:21:36 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user" (/guard/users.:sf_format)
+May 13 03:21:36 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_new" (/guard/users/new.:sf_format)
+May 13 03:21:36 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_create" (/guard/users.:sf_format)
+May 13 03:21:36 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_edit" (/guard/users/:id/edit.:sf_format)
+May 13 03:21:36 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_update" (/guard/users/:id.:sf_format)
+May 13 03:21:36 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_delete" (/guard/users/:id.:sf_format)
+May 13 03:21:36 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_show" (/guard/users/:id.:sf_format)
+May 13 03:21:36 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_object" (/guard/users/:id/:action.:sf_format)
+May 13 03:21:36 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_collection" (/guard/users/:action/action.:sf_format)
+May 13 03:21:36 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'job',  'action' => 'index',)
+May 13 03:21:37 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signin" (/guard/login)
+May 13 03:21:37 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signout" (/guard/logout)
+May 13 03:21:37 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_filter" (/guard/users/filter.:sf_format)
+May 13 03:21:37 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_batch" (/guard/users/batch.:sf_format)
+May 13 03:21:37 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user" (/guard/users.:sf_format)
+May 13 03:21:37 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_new" (/guard/users/new.:sf_format)
+May 13 03:21:37 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_create" (/guard/users.:sf_format)
+May 13 03:21:37 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_edit" (/guard/users/:id/edit.:sf_format)
+May 13 03:21:37 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_update" (/guard/users/:id.:sf_format)
+May 13 03:21:37 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_delete" (/guard/users/:id.:sf_format)
+May 13 03:21:37 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_show" (/guard/users/:id.:sf_format)
+May 13 03:21:37 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_object" (/guard/users/:id/:action.:sf_format)
+May 13 03:21:37 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_collection" (/guard/users/:action/action.:sf_format)
+May 13 03:21:37 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'job',  'action' => 'index',)
+May 13 03:21:37 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signin" (/guard/login)
+May 13 03:21:37 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signout" (/guard/logout)
+May 13 03:21:37 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_filter" (/guard/users/filter.:sf_format)
+May 13 03:21:37 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_batch" (/guard/users/batch.:sf_format)
+May 13 03:21:37 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user" (/guard/users.:sf_format)
+May 13 03:21:37 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_new" (/guard/users/new.:sf_format)
+May 13 03:21:37 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_create" (/guard/users.:sf_format)
+May 13 03:21:37 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_edit" (/guard/users/:id/edit.:sf_format)
+May 13 03:21:37 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_update" (/guard/users/:id.:sf_format)
+May 13 03:21:37 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_delete" (/guard/users/:id.:sf_format)
+May 13 03:21:37 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_show" (/guard/users/:id.:sf_format)
+May 13 03:21:37 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_object" (/guard/users/:id/:action.:sf_format)
+May 13 03:21:37 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_collection" (/guard/users/:action/action.:sf_format)
+May 13 03:21:38 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /category/index with parameters array (  'module' => 'category',  'action' => 'index',)
+May 13 03:21:39 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+May 13 03:21:39 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+May 13 03:21:39 symfony [info] {sfBasicSecurityFilter} Action "category/index" requires authentication, forwarding to "sfGuardAuth/signin"
+May 13 03:21:39 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+May 13 03:21:39 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+May 13 03:21:39 symfony [info] {sfGuardAuthActions} Call "sfGuardAuthActions->executeSignin()"
+May 13 03:21:39 symfony [info] {sfPHPView} Render "C:/xampp1.8/htdocs/jobeet/plugins/sfDoctrineGuardPlugin/modules/sfGuardAuth/templates/signinSuccess.php"
+May 13 03:21:39 symfony [info] {sfPartialView} Render "C:/xampp1.8/htdocs/jobeet/plugins/sfDoctrineGuardPlugin/modules/sfGuardAuth/templates/_signin_form.php"
+May 13 03:21:39 symfony [info] {sfPHPView} Decorate content with "C:\xampp1.8\htdocs\jobeet\apps\backend\templates/layout.php"
+May 13 03:21:39 symfony [info] {sfPHPView} Render "C:\xampp1.8\htdocs\jobeet\apps\backend\templates/layout.php"
+May 13 03:21:39 symfony [info] {sfWebResponse} Send content (1784 o)
+May 13 03:21:40 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signin" (/guard/login)
+May 13 03:21:40 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signout" (/guard/logout)
+May 13 03:21:40 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_filter" (/guard/users/filter.:sf_format)
+May 13 03:21:40 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_batch" (/guard/users/batch.:sf_format)
+May 13 03:21:40 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user" (/guard/users.:sf_format)
+May 13 03:21:40 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_new" (/guard/users/new.:sf_format)
+May 13 03:21:40 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_create" (/guard/users.:sf_format)
+May 13 03:21:40 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_edit" (/guard/users/:id/edit.:sf_format)
+May 13 03:21:40 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_update" (/guard/users/:id.:sf_format)
+May 13 03:21:40 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_delete" (/guard/users/:id.:sf_format)
+May 13 03:21:40 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_show" (/guard/users/:id.:sf_format)
+May 13 03:21:40 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_object" (/guard/users/:id/:action.:sf_format)
+May 13 03:21:40 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_collection" (/guard/users/:action/action.:sf_format)
+May 13 03:21:40 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'job',  'action' => 'index',)
+May 13 03:21:40 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signin" (/guard/login)
+May 13 03:21:40 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signout" (/guard/logout)
+May 13 03:21:40 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_filter" (/guard/users/filter.:sf_format)
+May 13 03:21:40 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_batch" (/guard/users/batch.:sf_format)
+May 13 03:21:40 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user" (/guard/users.:sf_format)
+May 13 03:21:40 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_new" (/guard/users/new.:sf_format)
+May 13 03:21:40 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_create" (/guard/users.:sf_format)
+May 13 03:21:40 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_edit" (/guard/users/:id/edit.:sf_format)
+May 13 03:21:40 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_update" (/guard/users/:id.:sf_format)
+May 13 03:21:40 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_delete" (/guard/users/:id.:sf_format)
+May 13 03:21:40 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_show" (/guard/users/:id.:sf_format)
+May 13 03:21:40 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_object" (/guard/users/:id/:action.:sf_format)
+May 13 03:21:40 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_collection" (/guard/users/:action/action.:sf_format)
+May 13 03:21:40 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /job/index with parameters array (  'module' => 'job',  'action' => 'index',)
+May 13 03:21:41 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+May 13 03:21:41 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+May 13 03:21:41 symfony [info] {jobActions} Call "jobActions->executeIndex()"
+May 13 03:21:41 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+May 13 03:21:41 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+May 13 03:21:41 symfony [info] {Doctrine_Connection_Mysql} query : SELECT COUNT(*) AS num_results FROM (SELECT j.id FROM jobeet_job j LEFT JOIN jobeet_category j2 ON j.category_id = j2.id GROUP BY j.id) dctrn_count_query - ()
+May 13 03:21:41 symfony [info] {sfPHPView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/indexSuccess.php"
+May 13 03:21:41 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_assets.php"
+May 13 03:21:41 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_flashes.php"
+May 13 03:21:41 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_header.php"
+May 13 03:21:41 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_filters.php"
+May 13 03:21:41 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_filters_field.php"
+May 13 03:21:41 symfony [info] {Doctrine_Connection_Mysql} query : SELECT j.id AS j__id, j.created_at AS j__created_at, j.updated_at AS j__updated_at FROM jobeet_category j - ()
+May 13 03:21:41 symfony [info] {Doctrine_Connection_Statement} execute : SELECT j.id AS j__id, j.name AS j__name, j.lang AS j__lang, j.slug AS j__slug FROM jobeet_category_translation j WHERE (j.id IN (?)) - (33)
+May 13 03:21:41 symfony [info] {Doctrine_Connection_Statement} execute : SELECT j.id AS j__id, j.name AS j__name, j.lang AS j__lang, j.slug AS j__slug FROM jobeet_category_translation j WHERE (j.id IN (?)) - (34)
+May 13 03:21:41 symfony [info] {Doctrine_Connection_Statement} execute : SELECT j.id AS j__id, j.name AS j__name, j.lang AS j__lang, j.slug AS j__slug FROM jobeet_category_translation j WHERE (j.id IN (?)) - (35)
+May 13 03:21:41 symfony [info] {Doctrine_Connection_Statement} execute : SELECT j.id AS j__id, j.name AS j__name, j.lang AS j__lang, j.slug AS j__slug FROM jobeet_category_translation j WHERE (j.id IN (?)) - (36)
+May 13 03:21:41 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_filters_field.php"
+May 13 03:21:41 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_filters_field.php"
+May 13 03:21:41 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_filters_field.php"
+May 13 03:21:41 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_filters_field.php"
+May 13 03:21:41 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_filters_field.php"
+May 13 03:21:41 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_filters_field.php"
+May 13 03:21:41 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_filters_field.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_th_stacked.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_th_tabular.php"
+May 13 03:21:42 symfony [info] {main} Set slot "sf_admin.current_header"
+May 13 03:21:42 symfony [info] {main} Get slot "sf_admin.current_header"
+May 13 03:21:42 symfony [info] {main} Set slot "sf_admin.current_header"
+May 13 03:21:42 symfony [info] {main} Get slot "sf_admin.current_header"
+May 13 03:21:42 symfony [info] {main} Set slot "sf_admin.current_header"
+May 13 03:21:42 symfony [info] {main} Get slot "sf_admin.current_header"
+May 13 03:21:42 symfony [info] {main} Set slot "sf_admin.current_header"
+May 13 03:21:42 symfony [info] {main} Get slot "sf_admin.current_header"
+May 13 03:21:42 symfony [info] {main} Set slot "sf_admin.current_header"
+May 13 03:21:42 symfony [info] {main} Get slot "sf_admin.current_header"
+May 13 03:21:42 symfony [info] {main} Set slot "sf_admin.current_header"
+May 13 03:21:42 symfony [info] {main} Get slot "sf_admin.current_header"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_pagination.php"
+May 13 03:21:42 symfony [info] {Doctrine_Connection_Mysql} query : SELECT j.id AS j__id, j.category_id AS j__category_id, j.type AS j__type, j.company AS j__company, j.logo AS j__logo, j.url AS j__url, j.position AS j__position, j.location AS j__location, j.description AS j__description, j.how_to_apply AS j__how_to_apply, j.token AS j__token, j.is_public AS j__is_public, j.is_activated AS j__is_activated, j.email AS j__email, j.expires_at AS j__expires_at, j.created_at AS j__created_at, j.updated_at AS j__updated_at, j2.id AS j2__id, j2.created_at AS j2__created_at, j2.updated_at AS j2__updated_at FROM jobeet_job j LEFT JOIN jobeet_category j2 ON j.category_id = j2.id ORDER BY j.expires_at desc LIMIT 10 - ()
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_td_batch_actions.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_td_stacked.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_field_boolean.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_td_actions.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_td_batch_actions.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_td_stacked.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_field_boolean.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_td_actions.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_td_batch_actions.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_td_stacked.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_field_boolean.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_td_actions.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_td_batch_actions.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_td_stacked.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_field_boolean.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_td_actions.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_td_batch_actions.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_td_stacked.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_field_boolean.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_td_actions.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_td_batch_actions.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_td_stacked.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_field_boolean.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_td_actions.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_td_batch_actions.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_td_stacked.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_field_boolean.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_td_actions.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_td_batch_actions.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_td_stacked.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_field_boolean.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_td_actions.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_td_batch_actions.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_td_stacked.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_field_boolean.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_td_actions.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_td_batch_actions.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_td_stacked.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_field_boolean.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_td_actions.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_batch_actions.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_actions.php"
+May 13 03:21:42 symfony [info] {sfPartialView} Render "C:\xampp1.8\htdocs\jobeet\cache\backend\test\modules/autoJob/templates/_list_footer.php"
+May 13 03:21:42 symfony [info] {sfPHPView} Decorate content with "C:\xampp1.8\htdocs\jobeet\apps\backend\templates/layout.php"
+May 13 03:21:42 symfony [info] {sfPHPView} Render "C:\xampp1.8\htdocs\jobeet\apps\backend\templates/layout.php"
+May 13 03:21:42 symfony [info] {sfWebResponse} Send content (26372 o)
